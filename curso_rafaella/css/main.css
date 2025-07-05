@@ -1,0 +1,17 @@
+#p1{
+    align-content: center;
+    background-color: #BC4141;
+}
+
+#caixa_case{
+    width: 75%;
+    border: 2px solid grey;
+    border-radius: 8px;
+    padding: 4px;
+    margin: 10px;
+}
+
+body{
+    align-content: center;
+    background-color: lightblue;
+}
